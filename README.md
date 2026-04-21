@@ -39,6 +39,7 @@ https://www.kaggle.com/datasets/sumanthnimmagadda/student-spending-dataset
 This project shows that overspending is a common pattern among students, highlighting the importance of financial awareness and planning.
 
 👉 [View the full analysis notebook](./student_spending_analysis.ipynb)
+👉 [Open the Streamlit Dashboard](https://student-spending-analysis-hgcurjujqgsqmmpjzn8dgo.streamlit.app/)
 ---
 
 / This project is part of my Data Science portfolio. /
